@@ -9,10 +9,6 @@ public class Car extends Transport {
     private boolean tires;
     private Key key;
 
-   //public Car(String lada, String granta, double engineVolume, String color, String россия, String желтый, int maxSpeed, String manual, String sedan, String а256пр, int seats, boolean tires, Key key) {
-   //    super();
-   //}
-
     public static class Key {
         private final boolean remoteStart;
         private final boolean withoutKey;

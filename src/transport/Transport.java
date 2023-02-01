@@ -34,8 +34,6 @@ public class Transport {
         }
         setColor(color);
         setMaxSpeed(maxSpeed);
-
-
     }
 
     public String getBrand() {
