@@ -30,7 +30,7 @@ public class Main {
         }
         Bus[] bus = new Bus[3];
         bus[0] = new Bus( "MarcoPollo", "1", 2019, "Россия", "Белый", 100);
-        bus[1] = new Bus( "ПАЗ", "1", 2020, "Россия", "Белый", 100);
+        bus[1] = new Bus( "Mercedes", "1", 2020, "Германия", "Белый", 100);
         bus[2] = new Bus( "ПАЗ1", "1", 2021, "Россия", "Белый", 100);
 
         for (Bus i : bus) {
